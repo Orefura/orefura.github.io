@@ -1,15 +1,15 @@
 title:              Orefura
-email:              your-email@example.com
+email:
 description:        Web Novel Translations 
-author:             Orefura
+author:             Izumi
 baseurl:            ""
 url:                "https://orefura.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
+twitter_username:   orefura
+github_username:    orefura
+facebook_username:
+instagram_username:
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
